@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WH.Logic/obj
+/WH.Proxy/obj
+/WH.Repository/obj
+/WH.Service/obj
+/WH.Shared/obj
+/WH.UI/obj
