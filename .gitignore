@@ -8,3 +8,9 @@
 /WH.Service/obj
 /WH.Shared/obj
 /WH.UI/obj
+/WH.Proxy/bin/Debug/net6.0
+/WH.Shared/bin/Debug/net6.0
+/WH.Logic/bin/Debug/net6.0
+/WH.Repository/bin/Debug/net6.0
+/WH.Service/bin/Debug/net6.0
+/WH.UI/bin/Debug/net6.0-windows
